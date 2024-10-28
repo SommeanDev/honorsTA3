@@ -13,10 +13,10 @@ This is a simple React Native Expo app that allows users to look up information 
 
 ## Screenshots
 
-### Home Screen with Search and Random Asteroid Buttons
+### Random Asteroid
 <img src="./assets/random_asteroid_fetch.png" width="300" alt="Fetch asteroid randomly">
 
-### Asteroid Details Example
+### Search asteroid via asteroid ID
 <img src="./assets/search_asteroid_id.png" width="300" alt="Search a specific asteroid id">
 
 ## Installation
